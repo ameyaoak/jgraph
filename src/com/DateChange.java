@@ -1,6 +1,5 @@
 package com;
 
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -25,7 +24,7 @@ public class DateChange {
 	static final String db = "jdbc:mysql://localhost:3306/timetempdata"; 
 	static final String user = "root";
 	static final String pass = "root";
-	static final String folderName= "C:\\Users\\Shree\\Downloads\\Temperature";
+	static final String folderName= "\\\\Controlpanel\\C\\Temperature Data";
 	//old path \\\\Controlpanel\\C\\Temperature  Data
 	static final String insertQury="INSERT INTO timetempdata.data "
 			+ "(time, pv1, sv1, pv2, sv2, pv3, sv3, pv4, sv4, pv5, sv5,"
