@@ -1,0 +1,17 @@
+Time		PV1	SV1	PV2	SV2	PV3	SV3	PV4	SV4	PV5	SV5	PV6	SV6	PV7	SV7	PV8	SV8	PV9	SV9	PV10	SV10	
+
+00:00:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:02:33	189	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:04:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:06:33	198	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:08:33	199	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty
+00:00:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:02:33	189	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:04:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:06:33	198	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:08:33	199	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:00:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:02:33	189	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:04:33	191	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:06:33	198	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	
+00:08:33	199	190	550	550	500	500	625	625	645	645	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty	Empty		
