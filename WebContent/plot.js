@@ -143,7 +143,7 @@ $(function () {
                             opposite: true
                         }],
                         exporting: {
-                            sourceWidth: 1600,
+                            sourceWidth: 3000,
                             sourceHeight: 400, 
                         },
                         
