@@ -91,36 +91,36 @@ $(function () {
             subTitle = "";
             if ($("#customer").val() != "") {
                 subTitle = subTitle.concat("<b>Customer: </b>" + $("#customer").val());
-            }
-            if ($("#mat").val() != "") {
-                subTitle = subTitle.concat(", <b>Material: </b>" + $("#mat").val());
-            }
+            } 
             if ($("#pn").val() != "") {
                 subTitle = subTitle.concat(", <b>Part Name: </b>" + $("#pn").val());
             }
             if ($("#pno").val() != "") {
                 subTitle = subTitle.concat(", <b>Part No: </b>" + $("#pno").val());
             }
+            if ($("#mat").val() != "") {
+                subTitle = subTitle.concat(", <b>Material: </b>" + $("#mat").val());
+            }
             if ($("#ht").val() != "") {
                 subTitle = subTitle.concat(", <b>Process: </b>" + $("#ht").val());
             }
-            if ($("#bq").val() != "") {
-                subTitle = subTitle.concat(", <br><b>Qty : </b>" + $("#bq").val());
+            if ($("#bt").val() != "") {
+                subTitle = subTitle.concat(", <br><b>Batch Date : </b>" + $("#bt").val());
+            } 
+            if ($("#furn").val() != "") {
+                subTitle = subTitle.concat(", <b>Furnace: </b>" + $("#furn").val());
             }
             if ($("#bno").val() != "") {
                 subTitle = subTitle.concat(", <b>Batch No: </b>" + $("#bno").val());
             }
-            if ($("#bt").val() != "") {
-                subTitle = subTitle.concat(", <b>Date : </b>" + $("#bt").val());
+            if ($("#bq").val() != "") {
+                subTitle = subTitle.concat(", <b>Qty : </b>" + $("#bq").val());
             }
-            if ($("#furn").val() != "") {
-                subTitle = subTitle.concat(", <b>Furnace: </b>" + $("#furn").val());
+            if ($("#settemp").val() != "") {
+                subTitle = subTitle.concat(", <br><b>Set Temp : </b>" + $("#settemp").val());
             }
             if ($("#lt").val() != "") {
-                subTitle = subTitle.concat(", <br><b>Loading Time : </b>" + $("#lt").val());
-            }
-             if ($("#settemp").val() != "") {
-                subTitle = subTitle.concat(", <br><b>Set Temp : </b>" + $("#settemp").val());
+                subTitle = subTitle.concat(", <b>Loading Time : </b>" + $("#lt").val());
             }
             if ($("#st").val() != "") {
                 subTitle = subTitle.concat(", <b>Soaking Start :  </b>" + $("#st").val());

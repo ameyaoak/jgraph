@@ -28,7 +28,7 @@ line-height: 1.5;background-color: #f1f1f1;">
     <div style="height: 20px;display: block;"> </div>
     <div id="container" style="min-width: 900px; height: 400px; margin: 0 auto;overflow: auto;"></div>
     <div style="height: 20px;display: block;"> </div>
-    <div style="height: 200px;width: 400px; padding: 20px;background-color: white;">
+    <div style="height: 590px;width: 400px; padding: 20px;background-color: white;">
         <form method="post">
             <table style="font-weight: bold;">
                 <tr>
